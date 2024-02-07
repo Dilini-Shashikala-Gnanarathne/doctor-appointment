@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Layout = () => {
+function Login() {
   return (
     <div>
-      
+      Login
     </div>
   )
 }
 
-export default Layout
+export default Login;
