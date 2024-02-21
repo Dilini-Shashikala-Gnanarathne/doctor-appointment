@@ -1,6 +1,6 @@
 import React from 'react'
 
-function DoctorDetails() {
+const DoctorDetails = () => {
   return (
     <div>
       DoctorDetails
@@ -8,4 +8,4 @@ function DoctorDetails() {
   )
 }
 
-export default DoctorDetails;
+export default DoctorDetails
