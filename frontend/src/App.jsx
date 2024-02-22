@@ -1,9 +1,9 @@
 import "./app.css";
-import Layout from "./layout/Layout";
+import Layout from "./layout/layout.jsx";
 
 function App() {
   return (
-    <Layout/>
+    <Layout />
   );
 }
 
