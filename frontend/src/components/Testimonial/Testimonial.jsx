@@ -1,6 +1,6 @@
 import React from 'react';
-import {  } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
+import {  } from 'swiper';
 import 'swiper/css';
 import 'swiper/css/pagination';
 import patientAvatar from '../../assets/images/patient-avatar.png';
@@ -29,8 +29,6 @@ const Testimonial = () => {
     },
   }}
 >
-
-
         <SwiperSlide>
           <div className="py-[30px] px-5 rounded-3">
             <div className="flex items-center gap-[13px]">

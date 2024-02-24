@@ -277,7 +277,6 @@ const Home = () => {
                     expert health care.
                    </p>
                </div>
-               
               <Testimonial />
             </div>
           </section>
